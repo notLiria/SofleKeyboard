@@ -1,3 +1,6 @@
 PCB/gerber*
 Case/PCBBottom/gerb*
 Case/PCBTop/gerb*
+*.lock
+*.yml
+*.kicad_pcb-bak
